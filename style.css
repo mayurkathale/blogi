@@ -267,7 +267,7 @@ object {
   position: relative;
 }
 .site-header a {
-  color: #fff;
+  color: red;
 }
 .site-header .social-header {
   margin: 0;
